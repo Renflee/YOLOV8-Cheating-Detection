@@ -1,6 +1,6 @@
 # YOLOV8-Cheating-Detection
 
-HOw to use this app
+Attemp to do first:
 
 1. pip install ultralytics
 2. pip install opencv-python
